@@ -1,0 +1,8 @@
+ShellMate
+Copyright (c) 2026 Fei-Fei Jin
+
+This project is an open-source AI Task Agent Platform designed to be
+modular, extensible, and safe to embed in private projects.
+
+Third-party dependencies are governed by their respective licenses.
+See pyproject.toml for the full dependency list.
